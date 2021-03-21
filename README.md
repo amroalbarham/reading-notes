@@ -8,4 +8,4 @@ i'm amro albarham fom ajloun
 |    Read03                    |   [stracture HTML](read03)                                                |
 |    Lab03-Structure-web       |   [Structure web pages with HTML](Lab03-Structure-web.md)                 |
 |    read04                    |   [Programming with JavaScript](read04)                                   |
-     
+|    read05                    |   [Operators and Loops](read05)                                           |
