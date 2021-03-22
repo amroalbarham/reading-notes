@@ -9,3 +9,4 @@ i'm amro albarham fom ajloun
 |    Lab03-Structure-web       |   [Structure web pages with HTML](Lab03-Structure-web.md)                 |
 |    read04                    |   [Programming with JavaScript](read04)                                   |
 |    read05                    |   [Operators and Loops](read05)                                           |
+|    read06                    |   [Design web pages with CSS](read06)                                     | 
