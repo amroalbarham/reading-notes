@@ -3,9 +3,11 @@
 
 
 ## Code 201 Reading Notes
+
 | NOC |    Assignment          |       link                                                                |
 |-----|------------------------|---------------------------------------------------------------------------|
-|  1  |     class-01           |   [Introductory HTML and JavaScript](class-01.md)
+|  1  |     class-01           |   [Introductory HTML and JavaScript](class-01.md)                         |
+
 
 
 
