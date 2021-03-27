@@ -1,4 +1,16 @@
-i'm amro albarham fom ajloun
+### i'm amro albarham fom ajloun
+
+
+
+## Code 201 Reading Notes
+| NOC |    Assignment          |       link                                                                |
+|-----|------------------------|---------------------------------------------------------------------------|
+|  1  |     class-01           |   [Introductory HTML and JavaScript](class-01.md)
+
+
+
+
+## Code 102 Reading Notes
 
 |   Assignment                 |         link                                                              |
 |------------------------------|---------------------------------------------------------------------------|
@@ -10,3 +22,6 @@ i'm amro albarham fom ajloun
 |    read04                    |   [Programming with JavaScript](read04)                                   |
 |    read05                    |   [Operators and Loops](read05)                                           |
 |    read06                    |   [Design web pages with CSS](read06)                                     | 
+
+
+
