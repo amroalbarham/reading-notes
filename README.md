@@ -16,7 +16,7 @@
 |    read07              |   [HTML Tables; JS Constructor Functions](read201/read07.md)                   |
 |    read08              |   [More CSS Layout](read201/read08.md)                                         |
 |    read09              |   [Forms and Events](read201/read09.md)                                        |
-|    read010             |   [JS Debugging](read201/read010.md)                                           |
+|    read10              |   [JS Debugging](read201/read10.md)                                            |
 |    read11              |   [Assorted Topics](read201/read11.md)                                         |
 |    read12              |   [Docs for the HTML **canvas** Element & Chart.js](read201/read12.md)         |
 |    read13              |   [Local Storage](read201/read13.md)                                           |
