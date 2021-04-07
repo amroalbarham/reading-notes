@@ -27,4 +27,4 @@
 -----------
 - ***Events are the browser's way of indicating when something has happened (such as when a page has finished loading or a button has been clicked).***
 - ***When an event occurs on an element, it can trigger aJavaScript function. When this function then changes the web page in some way, it feels interactive because it has responded to the user.***
-- ***You can use event delegation to monitor for events that happen on all of the children of an element. ***
+- ***You can use event delegation to monitor for events that happen on all of the children of an element.***
