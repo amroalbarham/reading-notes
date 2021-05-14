@@ -1,4 +1,10 @@
-### i'm amro albarham fom ajloun
+### I'm Amro Al Barham I graduated from Yarmouk university as an electrical engineer I worked in the Broadcast engineer field and I wanna be a full-stack developer.
+
+
+## Code 301 Reading Notes
+|  Assignment           |       link                                          |
+|-----------------------|-----------------------------------------------------|
+|   read01              |                                                     |   
 
 
 
