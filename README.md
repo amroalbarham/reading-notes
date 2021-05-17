@@ -2,9 +2,12 @@
 
 
 ## Code 301 Reading Notes
+
+
 |  Assignment           |       link                                                                      |
 |-----------------------|---------------------------------------------------------------------------------|
 |   read01              | [Introductory react and componenet](read301/read01.md)                          |   
+|   read02              | [State and Props](read301/read01.md)                                            |
 
 
 
