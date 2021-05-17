@@ -30,4 +30,4 @@
 *This is another rarely used method that allows you to capture a picture of the DOM to check it before actually changing anything on the DOM.*
 
 - ***componentDidUpdate()***
-*This method is useful for performing network requests after a change has occurred.*
+*This method is useful for performing network requests after a change has occurred..*
