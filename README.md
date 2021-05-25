@@ -15,6 +15,8 @@
 |   read07              | [REST](read301/read07.md)                                                       |
 |   read08              | [APIs](read301/read08.md)                                                       |
 |   read09              | [FUNCTIONAL PROGRAMMING](read301/read09.md)                                     |
+|   read10              | [In memory storage](read301/read10.md)                                          |
+
 
 
 
