@@ -13,6 +13,7 @@
 |   read05              | [Putting it all together](read301/read05.md)                                    |
 |   read06              | [NODE.JS](read301/read06.md)                                                    |
 |   read07              | [REST](read301/read07.md)                                                       |
+|   read08              | [APIs](read301/read08.md)                                                       |
 
 
 
