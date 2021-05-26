@@ -16,6 +16,7 @@
 |   read08              | [APIs](read301/read08.md)                                                       |
 |   read09              | [FUNCTIONAL PROGRAMMING](read301/read09.md)                                     |
 |   read10              | [In memory storage](read301/read10.md)                                          |
+|   read11              | [Authentication](read301/read11.md)                                             |
 
 
 
@@ -40,6 +41,7 @@
 |    read13ab            |   [Local Storage](read201/read13ab.md)                                           |
 |    read14a             |   [CSS Transforms, Transitions, and Animations](read201/read14a.md)            |
 |    read14b             |   [What Google Learned About Teams](read201/read14b.md)                        |
+
 
 ---------------------------------------------------------------------------------------------------------------
 
