@@ -25,3 +25,6 @@
 - **What type of structure does a relational database work with?**
 
     ***Relational databases are based on the relational model, an intuitive, straightforward way of representing data in tables***
+
+
+    
