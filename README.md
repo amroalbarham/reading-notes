@@ -6,15 +6,14 @@
 
 |  Assignment           |       link                                                                      |
 |-----------------------|---------------------------------------------------------------------------------|
-|   read01              | [Introductory react and componenet](read301/read01.md)                          |   
-|   read02              | [State and Props](read301/read02.md)                                            |
-|   read03              | [Passing Functions as Props](read301/read03.md)                                 |
+|                       |                                                                                 |   
 
 
 
 
 
-## Code 301 Reading Notes
+
+## Code 301 - Intermediate Software Development
 
 
 |  Assignment           |       link                                                                      |
@@ -36,7 +35,7 @@
 
 
 
-## Code 201 Reading Notes
+## Code 201 - Foundations of Software Development
 
 
 |    Assignment          |                  link                                                          |
@@ -60,7 +59,7 @@
 
 ---------------------------------------------------------------------------------------------------------------
 
-## Code 102 Reading Notes
+## Code 102 - Intro to Software Development
 
 
 |   Assignment                 |         link                                                              |
