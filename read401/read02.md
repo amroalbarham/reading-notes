@@ -73,4 +73,4 @@
 **CI/CD**
 
 
-***Ontino integration(CI) is the code and practice philosophy which encourages development teams to make minor changes and often check in repositories for version controls. Since most current apps need to create code on many platforms and tools, the team requires a system that can integrate and validate its modifications.***
+***Ontino integration(CI) is the code and practice philosophy which encourages development teams to make minor changes and often check in repositories for version controls. Since most current apps need to create code on many platforms and tools, the team requires a system that can integrate and validate its modifications..***
