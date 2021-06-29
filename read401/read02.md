@@ -41,6 +41,36 @@
    - **WRRC:** web request/response cycle traces how a user's request flows through the app.
 
 
+**An introduction to NodeJS and Express**
 
+  ***Node (or more formally Node.js) is an open-source, cross-platform runtime environment that allows developers to create all kinds of server-side tools and applications in JavaScript. The runtime is intended for use outside of a browser context (i.e. running directly on a computer or server OS). As such, the environment omits browser-specific JavaScript APIs and adds support for more traditional OS APIs including HTTP and file system libraries.***
+
+
+**What is NPM?**
+
+***npm is the world's largest software registry. Open source developers from every continent use npm to share and borrow packages, and many organizations use npm to manage private development as well.***
+
+  **npm consists of three distinct components:**    
+
+ - **the website**
+ - **the Command Line Interface (CLI)***
+- **the registry**
+
+
+**What is TDD?**
+
+**Test-driven development” refers to a style of programming in which three activities are tightly interwoven: coding, testing and design .**
+
+***It can be succinctly described by the following set of rules:***
+
+- **write a “single” unit test describing an aspect of the program**
+- **run the test, which should fail because the program lacks that feature**
+- **write “just enough” code, the simplest possible, to make the test pass**
+- **“refactor” the code until it conforms to the simplicity criteria**
+- **repeat, “accumulating” unit tests over time**
 
       
+**CI/CD**
+
+
+***Ontino integration(CI) is the code and practice philosophy which encourages development teams to make minor changes and often check in repositories for version controls. Since most current apps need to create code on many platforms and tools, the team requires a system that can integrate and validate its modifications.***
