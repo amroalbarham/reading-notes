@@ -10,7 +10,7 @@
 |    read01             |  [Node Ecosystem,TDD, CI/CD](read401/read01.md)                                 |
 |    read02             |  [Express](read401/read02.md)                                                   |
 |    read03             |  [Express REST API](read401/read03.md)                                          |
-
+|    read04             |  [BinarySearch](read401/read04.md)                                              |
 
 
 
