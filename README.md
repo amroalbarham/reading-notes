@@ -12,6 +12,8 @@
 |    read03             |  [Express REST API](read401/read03.md)                                          |
 |    read04             |  [BinarySearch](read401/read04.md)                                              |
 |    read05             |  [Linked Lists](read401/read05.md)                                              |
+|    read06             |  [Authentication](read401/read06.md)                                            |
+
 
 
 
