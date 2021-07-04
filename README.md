@@ -13,7 +13,7 @@
 |    read04             |  [BinarySearch](read401/read04.md)                                              |
 |    read05             |  [Linked Lists](read401/read05.md)                                              |
 |    read06             |  [Authentication](read401/read06.md)                                            |
-
+|    read07             |  [Bearer Authorization](read401/read07.md)                                      |
 
 
 
