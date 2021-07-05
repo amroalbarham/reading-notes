@@ -27,7 +27,7 @@
 
 **bearer:** *authentication (also called token authentication) is an HTTP authentication scheme that involves security tokens called bearer tokens.*
 
-**secret:** *a string that used to encrypt the token when we create it and identify it when its come back to our server. JSON Web Token: It is a standard used to create access tokens for an application.*
+**secret:** *a string that used to encrypt the token when we create it and identify it when its come back to our server. JSON Web Token: It is a standard used to create access tokens for an application..*
 
 
 
