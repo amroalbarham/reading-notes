@@ -15,6 +15,8 @@
 |    read06             |  [Authentication](read401/read06.md)                                            |
 |    read07             |  [Bearer Authorization](read401/read07.md)                                      |
 |    read08             |  [Access Control](read401/read08.md)                                            |
+|    read09             |  [SQL](read401/read09.md)                                                       |
+
 
 
 
