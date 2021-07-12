@@ -51,7 +51,7 @@
 
 **Rooms are subdivisions of namespaces that can be created by the server. This allows you to broadcast data to a subset of related sockets. Two useful methods are provided for joining and leaving rooms, .join(room, callback) and .leave(room, callback) respectively. Both take two parameters, the room name and a callback.**
 
-**A namespace is basically a route defined on your API (/games) and upon connection, the request has to be sent to the specific namespace route let’s say the server is running on our localhost and we want to join the games namespace so we simply request a socket io connection to (http://localhost:3000/games) and thus all the connected sockets to one namespace would can reach sockets on the same namespace but can’t talk with other namespace’s socket.**
+**A namespace is basically a route defined on your API (/games) and upon connection, the request has to be sent to the specific namespace route let’s say the server is running on our localhost and we want to join the games namespace so we simply request a socket io connection to (http://localhost:3000/games) and thus all the connected sockets to one namespace would can reach sockets on the same namespace but can’t talk with other namespace’s socket..**
 
 
 
