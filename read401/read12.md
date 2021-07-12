@@ -46,3 +46,36 @@
 
 **database:** *is an organized collection of data, generally stored and accessed electronically from a computer system.*
 
+
+
+## Preparation Materials
+
+
+**OSI Model Explained**
+
+***Learn computer network layers or OSI layers in a computer network, OSI Model, OSI reference model or open system interconnection model or networking model including Application Layer, Presentation Layer, Session Layer, Transport Layer, Network Layer, Data Link Layer and Physical layer. Definition, Function, and use of the OSI network model. Protocols in computer network layers of OSI model.***
+
+***But if one computer is based on Microsoft Windows and the other one has MAC OS installed, then how these two computers are going to communicate with each other?***
+
+***In order to accomplish successful communication b/w computers or networks of different architectures, 7-layered OSI Model or Open System Interconnection Model was introduced by the International Organization for Standardization in 1984.***
+
+
+**TCP - Three-way handshake in details**
+
+***TCP stands for transmission control protocol. TCP is a reliable and connection-oriented transport protocol. With TCP, data can be delivered successfully and accurately.***
+
+***Many applications, such as web, email, and FTP, use TCP. Before TCP transmits data, it will use three-way handshake to establish a connection.***
+
+
+**WebSocket**
+
+***WebSocket is a computer communications protocol, providing full-duplex communication channels over a single TCP connection. The WebSocket protocol was standardized by the IETF as RFC 6455 in 2011, and the WebSocket API in Web IDL is being standardized by the W3C.***
+
+***The WebSocket protocol enables interaction between a web browser (or other client application) and a web server with lower overhead than half-duplex alternatives such as HTTP polling, facilitating real-time data transfer from and to the server. This is made possible by providing a standardized way for the server to send content to the client without being first requested by the client, and allowing messages to be passed back and forth while keeping the connection open. In this way, a two-way ongoing conversation can take place between the client and the server. The communications are usually done over TCP port number 443 (or 80 in the case of unsecured connections), which is beneficial for environments that block non-web Internet connections using a firewall. Similar two-way browser-server communications have been achieved in non-standardized ways using stopgap technologies such as Comet.***
+
+
+**WebSocket vs Socket.io**
+
+***WebSocket is the communication Protocol that provides bidirectional communication between the Client and the Server over a TCP connection; WebSocket remains open all the time, so they allow real-time data transfer. When clients trigger the request to the server, it does not close the connection on receiving the response; it rather persists and waits for the Client or server to terminate the request.***
+
+***Socket.IO is a library that enables real-time and full-duplex communication between the Client and the Web servers. It uses the WebSocket protocol to provide the interface. Generally, it is divided into two parts; both WebSocket vs Socket.io are event-driven libraries.***
