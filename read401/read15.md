@@ -24,4 +24,4 @@
 
 **Levels** *− Level of a node represents the generation of a node. If the root node is at level 0, then its next child node is at level 1, its grandchild is at level 2, and so on.*
 
-**keys** *− Key represents a value of a node based on which a search operation is to be carried out for a node.*
+**keys** *− Key represents a value of a node based on which a search operation is to be carried out for a node..*
