@@ -24,6 +24,8 @@
 |    read15             |  [Trees](read401/read15.md)                                                     |
 |    read16             |  [AWS: Cloud Servers](read401/read16.md)                                        |
 |    read17             |  [S3 and Lambda](read401/read17.md)                                             |
+|    read18             |  [API, Dynamo and Lambda](read401/read18.md)                                    |
+
 
 
 
