@@ -26,6 +26,9 @@
 |    read17             |  [S3 and Lambda](read401/read17.md)                                             |
 |    read18             |  [API, Dynamo and Lambda](read401/read18.md)                                    |
 |    read19             |  [AWS: Events](read401/read19.md)                                               |
+|    read26             |  [Component Based UI](read401/read26.md)                                        |
+|
+
 
 
 
