@@ -6,7 +6,7 @@
 
     *Angular, Vue, Ember, Svelte 3, Ext JS by Sencha*
 
-    ![UI](/img/read26A.png)
+    ![UI](./img/read26A.png)
 
 
 - **What’s the difference between a framework and a library?**
@@ -22,7 +22,7 @@
 
 **JSX** 
 
-![JSX](/img/read26B.png)
+![JSX](./img/read26B.png)
 
 - *JSX produces React “elements”.*
 
