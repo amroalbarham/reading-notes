@@ -28,6 +28,7 @@
 |    read19             |  [AWS: Events](read401/read19.md)                                               |
 |    read26             |  [Component Based UI](read401/read26.md)                                        |
 |    read27             |  [Hook](read401/read27.md)                                                      |
+|    read28             |  [Component Lifecycle](read401/read28.md)                                       |
 
 
 
