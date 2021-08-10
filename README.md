@@ -29,6 +29,8 @@
 |    read26             |  [Component Based UI](read401/read26.md)                                        |
 |    read27             |  [Hook](read401/read27.md)                                                      |
 |    read28             |  [Component Lifecycle](read401/read28.md)                                       |
+|    read29             |  [Advanced State with Reducers](read401/read29.md)                              |
+
 
 
 
