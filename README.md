@@ -30,7 +30,7 @@
 |    read27             |  [Hook](read401/read27.md)                                                      |
 |    read28             |  [Component Lifecycle](read401/read28.md)                                       |
 |    read29             |  [Advanced State with Reducers](read401/read29.md)                              |
-
+|    read30             |  [Hash Tables](read401/read30.md)                                               |
 
 
 
