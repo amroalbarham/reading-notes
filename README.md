@@ -32,6 +32,7 @@
 |    read29             |  [Advanced State with Reducers](read401/read29.md)                              |
 |    read30             |  [Hash Tables](read401/read30.md)                                               |
 |    read31             |  [Context API](read401/read31.md)                                               |
+|    read32             |  [Context API - Behaviors](read401/read32.md)                                   |
 
 
 
