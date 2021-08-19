@@ -36,6 +36,7 @@
 |    read33             |  [Login  and Auth ](read401/read33.md)                                          |
 |    read34             |  [API Integration](read401/read34.md)                                           |
 |    read35             |  [Graphs](read401/read35.md)                                                    |
+|    read36             |  [Application State with Redux](read401/read36.md)                              |
   
 
 
